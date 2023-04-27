@@ -1,0 +1,34 @@
+@media (max-width: 992px) {
+    .navbar-collapse {
+      margin-top: 20px;
+    }
+  
+    .navbar-nav {
+      flex-direction: column;
+    }
+  
+    .nav-link {
+      padding: 0.5rem 1rem;
+    }
+  
+    .modal-dialog {
+      margin: auto;
+      max-width: 95%;
+    }
+  
+    .card {
+      margin-bottom: 30px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-brand {
+      margin-right: auto;
+    }
+  
+    .navbar-nav {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  }
+  
